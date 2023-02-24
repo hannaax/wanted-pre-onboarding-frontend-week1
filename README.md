@@ -52,8 +52,18 @@
         ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a85aa4-3686-4aaa-ab3d-8af2b6b05035/Untitled.png)
         
 ## 협업방식
-    - 노션링크
-    - 어떤 방식으로 진행되었는지 간단 설명 몇 줄 정도
+주된 커뮤니케이션 툴로 [**팀 노션**]([https://www.notion.so/1-48d83304b94c42ad8352fcf6e7973b9f?pvs=4](https://www.notion.so/Wanted-Frontend-Team-5-1b4b70c451904220aba9221ad9f706ae)) 페이지와 **디스코드**를 사용했습니다.
+
+### **노션 페이지**
+
+- 팀원들의 코드를 분석하고, 그 중에서 Best Practice를 정리하였습니다.
+- commit 컨벤션, git flow 전략, 네이밍을 정의하였습니다.
+- 팀원들의 역할 분담, 일정 조율을 위해 활용되었습니다.
+
+### **디스코드**
+
+- 팀원들의 의사소통 및 화면 공유를 통한 협업을 위해 활용되었습니다.
+
 
 ---
 
