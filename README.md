@@ -176,3 +176,5 @@ npm start
 
 ## 5. 사용 라이브러리
 
+![wanted-week2-gif4](https://user-images.githubusercontent.com/111215320/223873897-cc9a9ec8-7b3d-48d9-b196-f9852a03615d.gif)
+
